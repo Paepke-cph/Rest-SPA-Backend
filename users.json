@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 100,
-      "age": 39,
       "name": "Madeleine Flynn",
+      "age": 39,
       "gender": "female",
       "email": "madeleineflynn@jumpstack.com"
     },
@@ -16,8 +16,8 @@
     },
     {
       "id": 102,
-      "age": 20,
       "name": "Kennedy Branch",
+      "age": 20,
       "gender": "male",
       "email": "kennedybranch@jumpstack.com"
     },
@@ -30,8 +30,8 @@
     },
     {
       "id": 104,
-      "age": 20,
       "name": "Holmes Morin",
+      "age": 20,
       "gender": "male",
       "email": "holmesmorin@jumpstack.com"
     },
@@ -44,8 +44,8 @@
     },
     {
       "id": 106,
-      "age": 31,
       "name": "Shelly Greer",
+      "age": 31,
       "gender": "female",
       "email": "shellygreer@jumpstack.com"
     },
@@ -79,8 +79,8 @@
     },
     {
       "id": 111,
-      "age": 33,
       "name": "Buchanan Frye",
+      "age": 33,
       "gender": "male",
       "email": "buchananfrye@jumpstack.com"
     },
@@ -92,18 +92,11 @@
       "email": "bakerpratt@jumpstack.com"
     },
     {
-      "age": "34",
-      "name": "lis Benson",
-      "gender": "female",
-      "email": "lis@lis.com",
-      "id": 113
-    },
-    {
-      "age": "34",
-      "name": "Jan Benson",
+      "id": 113,
+      "name": "Peter Nielsen",
+      "age": 50,
       "gender": "male",
-      "email": "lis@lis.com",
-      "id": 114
+      "email": "p@nielsen.dk"
     }
   ]
 }
